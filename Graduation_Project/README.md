@@ -1,6 +1,6 @@
 ## **Digital Twin Graph Predictions**
 
-  - Digital twins, virtual representations of physical assets, offer a
+  - Digital Twins, virtual representations of physical assets, offer a
   powerful tool for monitoring, predicting, and optimizing
   performance. This project proposes a novel approach for digital
   twin time series forecasting using interpretable Graph Neural
